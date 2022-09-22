@@ -1,0 +1,11 @@
+{% extends "index.html" %}
+{% block content %}
+
+<p>This is a demo (using the <a href="https://satotious.com">Satotious</a> service) of how to create a paywall
+    that requires a LN payment or viewing an ad to display a page.<p>
+
+<script src="https://satotious.com/pw.js?adViews=1&cost=1000&autoPayAmount=10"
+        data-enc-server-info="{{ page.extra.data_enc_server_info }}"
+        data-enc-content="{{ page.extra.data_enc_content }}"></script>
+
+{% endblock content %}

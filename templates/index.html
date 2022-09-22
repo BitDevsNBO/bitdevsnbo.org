@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+    <meta content="utf-8" http-equiv="encoding">
+    <title>
+        {% block title %}{{ config.title }}{% endblock title %}
+    </title>
+
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon"/>
+
+    <link rel="stylesheet" href="/style.css">
+    <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet">
+
+</head>
+
+<body>
+
+<div class="Site">
+
+    <header class="Header">
+        <div class="Header-inner">
+            <div class="Header-logo">
+                <a href="/">{{ config.title }}</a>
+            </div>
+            <nav class="Header-nav">
+                <a href="/about">About</a>
+                <a href="{{ config.extra.meetup }}" target="_blank" rel="noopener nofollow">Meetup</a>
+                <a href="{{ config.extra.discord }}" target="_blank" rel="noopener nofollow">Discord</a>
+            </nav>
+        </div>
+        <div class="Header-border">
+            ==============================================================================================================================================================
+        </div>
+    </header>
+
+    {% block content %}
+    <div class="Home">
+        <p class="Home-about">
+            {{ config.description }}
+        </p>
+
+        <div class="Home-posts">
+            <h2 class="Home-posts-title">Upcoming and Recent Events</h2>
+            {% for page in section.pages %}
+            <div class="Home-posts-post">
+                <span class="Home-posts-post-date">{{ page.date | date(format="%Y-%m-%d") }}</span>
+                <span class="Home-posts-post-arrow">&raquo;</span>
+                <a class="Home-posts-post-title" href="{{ page.permalink }}">{{ page.title }}</a>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    {% endblock content %}
+
+<script type="application/ld+json">
+{
+  "@context": "http://www.schema.org",
+  "@type": "CommunityClub",
+  "name": "BitDevsNBO",
+  "url": "",
+  "description": "BitDevsNBO is a community in Nairobi, Kenya, for those interested in discussing and participating in the research and development of Bitcoin and related protocols and software.",
+  "founder": [
+    {
+      "@type": "Person",
+      "name": "Vladimir Kwasi"
+    },
+    {
+      "@type": "Person",
+      "name": "okjodom"
+    }
+  ],
+  "member": [
+    {
+      "@type": "Person",
+      "name": "Vladimir Kwasi"
+    },
+    {
+      "@type": "Person",
+      "name": "okjdom"
+    }
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Nairobi",
+    "addressRegion": "Nairobi",
+    "addressCountry": "Kenya"
+  },
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "Organizer",
+    "email": ""
+  }
+}
+</script>
+
+    <footer class="Footer">
+        <div class="Footer-border">
+            ==============================================================================================================================================================
+        </div>
+        <div class="Footer-inner">
+            <div class="Footer-source">
+                <a href="{{ config.extra.github }}" target="_blank"
+                   rel="noopener nofollow">Source available on Github</a>
+            </div>
+            <div class="Footer-rss">
+                <a href="/rss.xml">RSS Feed</a>
+            </div>
+        </div>
+    </footer>
+
+    </div>
+
+</body>
+
+</html>

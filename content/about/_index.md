@@ -15,7 +15,7 @@ Our monthly [Socratic Seminar] events are formatted to foster debate, informatio
 sharing and lively discussion. In the weeks preceding the event, discussion
 topics are collated by meetup members from a variety of sources: pull requests
 in popular git repositories (e.g. Bitcoin Core, lnd, c-lightning, Joinmarket,
-Elements Alpha and Electrum), research papers, technical blog posts, IRC logs,
+Elements Alpha, Fedimint and Electrum), research papers, technical blog posts, IRC logs,
 network monitors and more. To complete the meeting, members present open source
 projects, companies, research and other relevant materials. A feedback and Q&A
 section follow. After the event the group gathers at a nearby restaurant to
@@ -29,7 +29,7 @@ the basics of Bitcoin in order to extract the most value from our Socratic event
 
 Please contact the organizers if you'd like to present at a future Socratic
 event or have a recommended topic for discussion, or find the PR on the 
-[bitdevsnbo github repo](https://github.com/BitDevsNBO/bitdevsnbo) and add a comment. 
+[BitDevsNBO GitHub repo](https://github.com/BitDevsNBO/bitdevsnbo) and add a comment. 
 There are different requirements for presentations depending on the nature of the project. Check our 
 list of suggestions for [where to find topics](/about/find-topics) for future seminars.
 

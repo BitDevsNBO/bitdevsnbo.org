@@ -24,10 +24,13 @@ BitDevsNBO meetups. If you have any others to add to the list let us know.
 - [rust-bitcoin](https://github.com/rust-bitcoin)
 - [Lightning Dev Kit](https://github.com/orgs/lightningdevkit)
 - [Bitcoin Dev Kit](https://github.com/bitcoindevkit)
+- [Fedimint](https://github.com/fedimint)
 
 ### Other Meetups
 
 - [Bitcoin Core Review Club](https://bitcoincore.reviews/)
+- [LND PR Review Club](https://lnd.reviews/)
+- [LDK PR Review Club](https://ldk.reviews/)
 - [BitDevs NYC](https://bitdevs.org)
 - [BitDevs SF](https://www.sfbitcoindevs.org/)
 - [BitDevs London](https://www.meetup.com/London-Bitcoin-Devs/)

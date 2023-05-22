@@ -46,6 +46,8 @@
    - [RBF two transactions with one](https://twitter.com/mononautical/status/1655752625525075971)
    - [BDK multi-descriptor wallet](https://github.com/bitcoindevkit/bdk/pull/966)
    - [CivKit](https://civkit.org)
+   - [Layer 2 by the LND Slayer](https://www.arkpill.me)
+   - [Ledger wallet recovery scandal](https://www.youtube.com/watch?v=9scIevuymZM)
    - [April Optech](https://bitcoinops.org/en/newsletters/2023/04/26/)
    - [May Part 1 Optech](https://bitcoinops.org/en/newsletters/2023/05/03/)
    - [May Part 2 Optech](https://bitcoinops.org/en/newsletters/2023/05/10/)

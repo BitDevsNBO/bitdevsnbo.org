@@ -1,5 +1,5 @@
  +++
- title = "BitDevsNBO May Meetup"
+ title = "BitDevsNBO July Meetup"
  template = "post.html"
  [extra]
  +++
@@ -59,4 +59,4 @@
    - [AFROBITCOIN FELLOWSHIP 2023](https://www.afrobitcoin.org/fellowship)
    - [Africa Bitcoin Conference](https://www.afrobitcoin.org) Dec. 1-3
    - [Dakar BTC days](https://dakarbitcoindays.com/) Dec. 1-2
-   - [BTC Prague](https://www.btcprague.com) Jun. 8-10
+   - [TABConf 2023](https://2023.tabconf.com) Sept. 6-7

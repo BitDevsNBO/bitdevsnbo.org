@@ -28,7 +28,7 @@
 
  ### Announcements
 
- We are excited to introduce our fourth [Socratic Seminar](/about)! A special thank you to our 
+ We are excited to introduce our Fifth [Socratic Seminar](/about)! A special thank you to our 
  sponsor [GRIDLESS](https://gridlesscompute.com) for food and refreshments.
 
  ### Reminders

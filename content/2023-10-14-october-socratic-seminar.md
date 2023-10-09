@@ -39,7 +39,7 @@
 
  ### Socratic Seminar Topics
 
-   ##### BIP 324 Discussion 
+   ##### BIP 324 Discussion
    - [BIP](https://github.com/bitcoin/bips/blob/master/bip-0324.mediawiki)
    - [Article](https://thebitcoinmanual.com/articles/what-is-bip324/)
    - [Newsletter](https://bitcoinops.org/en/topics/v2-p2p-transport/)
@@ -55,7 +55,6 @@
    - [Bitcoin Optech Newsletter #268](https://bitcoinops.org/en/newsletters/2023/09/13/)
    - [Bitcoin Optech Newsletter #267](https://bitcoinops.org/en/newsletters/2023/09/06/)
    - [Bitcoin Optech Newsletter #266](https://bitcoinops.org/en/newsletters/2023/08/30/)
-   - [AFROBITCOIN FELLOWSHIP 2023](https://www.afrobitcoin.org/fellowship)
    - [Africa Bitcoin Conference](https://www.afrobitcoin.org) Dec. 1-3
    - [Dakar BTC days](https://dakarbitcoindays.com/) Dec. 1-2
    - [Plan B Forum ](https://planb.lugano.ch/planb-forum/) Oct. 20-21

@@ -8,7 +8,7 @@ template = "post.html"
 
 The event will be hosted at **Nairobi Garage**:
 
-DELTA TOWERS | Rhapta Road | [Map](https://maps.app.goo.gl/ZujaRcJoxeChDDHT9)  
+DELTA CORNER TOWERS | Delta Corner Rd, 7th | [Map](https://maps.app.goo.gl/PXQ6JEsEUzf1AFj19)
 
 ## Announcements
 

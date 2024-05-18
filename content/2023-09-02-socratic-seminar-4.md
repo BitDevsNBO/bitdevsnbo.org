@@ -1,5 +1,5 @@
  +++
- title = "BitDevsNBO August Meetup"
+ title = "Socratic Seminar #4"
  template = "post.html"
  [extra]
  +++

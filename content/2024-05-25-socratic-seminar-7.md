@@ -1,5 +1,5 @@
 +++
-title = "Socratic Seminar #6"
+title = "Socratic Seminar #7"
 template = "post.html"
 [extra]
 +++
@@ -12,7 +12,7 @@ DELTA CORNER TOWERS | Delta Corner Rd, 7th | [Map](https://maps.app.goo.gl/PXQ6J
 
 ## Announcements
 
-Join us on our Sixth Bitcoin [Socratic Seminar](/about)! A special thank you to our
+Join us on our Seventh Bitcoin [Socratic Seminar](/about)! A special thank you to our
 sponsor [Btrust](http://btrust.tech/) for food and refreshments.
 
 ## Reminders
@@ -78,8 +78,9 @@ MC: @tbd
 
 ---
 
-MC: @tbd
+MC: @okjodom
 
+- [Fedimint - a bitcoin custody protocol using ecash](https://fedimint.org)
 - [Cashu Gateways](https://damus.io/nevent1qqsfakvg9fwttxp6y2fp0n0nmrgnguac63h3lf4pxafetrhms85yv5spz4mhxue69uhhyetvv9ujuerpd46hxtnfduhszxrhwden5te0dehhxarj9enx6apwwa5h5tnzd9az7qg7waehxw309ahx7um5wgkhqatz9emk2mrvdaexgetj9ehx2ap0qyvhwumn8ghj7un9d3shjtnndehhyapwwdhkx6tpdshsssnezh)
 
 ### Other Bitcoin Tech

@@ -29,7 +29,7 @@
  ### Announcements
 
  We are excited to introduce our third [Socratic Seminar](/about)! A special thank you to our 
- sponsor [GRIDLESS](https://gridlesscompute.com) for food and refreshments.
+ sponsor [Machankura](https://web.8333.mobi) for food and refreshments.
 
  ### Reminders
 
@@ -40,23 +40,22 @@
 
  ### Socratic Seminar Topics
 
-   ##### Covenants in Bitcoin:
-   - [Paper](https://fc17.ifca.ai/bitcoin/papers/bitcoin17-final28.pdf)
-   - [BIP](https://github.com/bitcoin/bips/blob/master/bip-0119.mediawiki)
-   - [Article](https://rusty.ozlabs.org/2023/07/09/covenant-taxonomy.html)
-
-   ##### Ark protocol
-   - [Site](https://www.arkpill.me/deep-dive))
-   - [Intro](https://burakkeceli.medium.com/introducing-ark-6f87ae45e272)
-   - [Article](https://bitcoinmagazine.com/technical/how-ark-plans-to-scale-private-bitcoin-payments)
-   - [Podcast](https://www.stacksats.how/podcasts/e109-burak-on-building-ark-scaling-bitcoin-and-improving-privacy)
-   - [Gist](https://gist.github.com/RubenSomsen/a394beb1dea9e47e981216768e007454)
-  
+   - [Congestion Control](https://rubin.io/bitcoin/2021/12/09/advent-12/)
+   - [Ordinals](https://docs.ordinals.com)
+   - [BRC-20 Token](https://domo-2.gitbook.io/brc-20-experiment/)
+   - [RBF two transactions with one](https://twitter.com/mononautical/status/1655752625525075971)
+   - [BDK multi-descriptor wallet](https://github.com/bitcoindevkit/bdk/pull/966)
+   - [CivKit](https://civkit.org)
+   - [Layer 2 by the LND Slayer](https://www.arkpill.me)
+   - [Ledger wallet recovery scandal](https://www.youtube.com/watch?v=9scIevuymZM)
+   - [April Optech](https://bitcoinops.org/en/newsletters/2023/04/26/)
+   - [May Part 1 Optech](https://bitcoinops.org/en/newsletters/2023/05/03/)
+   - [May Part 2 Optech](https://bitcoinops.org/en/newsletters/2023/05/10/)
+    
     
 
  #### News and Events
 
-   - [AFROBITCOIN FELLOWSHIP 2023](https://www.afrobitcoin.org/fellowship)
    - [Africa Bitcoin Conference](https://www.afrobitcoin.org) Dec. 1-3
    - [Dakar BTC days](https://dakarbitcoindays.com/) Dec. 1-2
-   - [TABConf 2023](https://2023.tabconf.com) Sept. 6-7
+   - [BTC Prague](https://www.btcprague.com) Jun. 8-10

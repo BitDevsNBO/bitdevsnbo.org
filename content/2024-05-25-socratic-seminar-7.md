@@ -29,7 +29,7 @@ sponsor [Btrust](http://btrust.tech/) for food and refreshments.
 
 ---
 
-MC: @tbd
+MC: Brandon
 
 - [BIPs](https://github.com/bitcoin/bips)
 - [OP_CAT assigned BIP 347](https://github.com/bitcoin/bips/pull/1525)
@@ -47,7 +47,7 @@ MC: @tbd
 
 ---
 
-MC: @tbd
+MC: Simon
 
 - [ViaBTC mines the halving block - 40.71 BTC block reward!](https://mempool.space/block/0000000000000000000320283a032748cef8227873ff4872689bf23f1cda83a5)
    - [Epic sat sold for 33.3 BTC](https://mempool.space/block/0000000000000000000320283a032748cef8227873ff4872689bf23f1cda83a5)
@@ -62,7 +62,7 @@ MC: @tbd
 
 ---
 
-MC: @tbd
+MC: Jodom
 
 - [Phoenixd released](https://www.nobsbitcoin.com/phoenixd-released/) | [Github Link](https://github.com/ACINQ/phoenixd)
    - [LNURL for self-sovereign phoenixd](https://primal.net/e/note1tujvj50j76rhwts5tf6ud2fxdg9n8gyw8z7tsnwp4fsweg4xzt5sa7590u)
@@ -78,7 +78,7 @@ MC: @tbd
 
 ---
 
-MC: @okjodom
+MC: Jodom
 
 - [Fedimint - a bitcoin custody protocol using ecash](https://fedimint.org)
 - [Cashu Gateways](https://damus.io/nevent1qqsfakvg9fwttxp6y2fp0n0nmrgnguac63h3lf4pxafetrhms85yv5spz4mhxue69uhhyetvv9ujuerpd46hxtnfduhszxrhwden5te0dehhxarj9enx6apwwa5h5tnzd9az7qg7waehxw309ahx7um5wgkhqatz9emk2mrvdaexgetj9ehx2ap0qyvhwumn8ghj7un9d3shjtnndehhyapwwdhkx6tpdshsssnezh)
@@ -87,7 +87,7 @@ MC: @okjodom
 
 ---
 
-MC: @tbd
+MC: Charles
 
 - [Taproot Assets Protocol](https://lightning.engineering/api-docs/api/taproot-assets/) | [Github Link](https://github.com/lightninglabs/taproot-assets)
    - [Taproot Assets on Mainnet!](https://x.com/roasbeef/status/1788624974728790471)
@@ -99,6 +99,8 @@ MC: @tbd
 
 ---
 
+MC: Vlad
+
 - [Founders And CEO Of Cryptocurrency Mixing Service Arrested And Charged With Money Laundering And Unlicensed Money Transmitting Offenses](https://www.justice.gov/usao-sdny/pr/founders-and-ceo-cryptocurrency-mixing-service-arrested-and-charged-money-laundering)
 - [Phoenix Wallet exiting the US. Are Lightning nodes Money Service Providers?](https://x.com/acinq_co/status/1783878735168507972)
 - [Binance Founder Sentenced to 4 Months in Prison](https://www.nytimes.com/2024/04/30/technology/binance-founder-changpeng-zhao-sentenced.html)
@@ -107,7 +109,7 @@ MC: @tbd
 
 ---
 
-MC: @tbd
+MC: Isaack
 
 - [The Bitcoin Scholarship](https://bitcoinscholarship.xyz)
 - [Bitcoin Holiday Calendar](https://bitcoin.holiday)
@@ -124,7 +126,7 @@ MC: @tbd
 
 ---
 
-MC: @tbd
+MC: Sharon
 
 - [tbDEX Workshop Nairobi](https://www.tbdex.io/workshops/tbdex-nairobi) May. 28, 2024
 - [Lightning Development Bootcamp, Nairobi](https://x.com/FreeRoutingAf/status/1787828473798525075) Jun. 10-14, 2024

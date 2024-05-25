@@ -120,6 +120,7 @@ MC: Isaack
 - [How to Dictator-Proof Your Money](https://journalofdemocracy.org/online-exclusive/how-to-dictator-proof-your-money/)
 - [Anatomy of a credit card rewards program](https://www.bitsaboutmoney.com/archive/anatomy-of-credit-card-rewards-programs/)
 - [A Primer on Bitcoin Cross-Border Flows: Measurement and Drivers](https://www.imf.org/en/Publications/WP/Issues/2024/04/05/A-Primer-on-Bitcoin-Cross-Border-Flows-Measurement-and-Drivers-547429)
+- [Splice Africa is Live!](https://x.com/SpliceAfrica/status/1793322564925768024)
 
 
 #### Upcoming Events

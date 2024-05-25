@@ -41,6 +41,7 @@ MC: Brandon
 - [Great Consensus Cleanup Revival](https://delvingbitcoin.org/t/great-consensus-cleanup-revival/710/1)
 - [The Future of Bitcoin Testnet](https://groups.google.com/g/bitcoindev/c/9bL00vRj7OU/m/9yCPo3uUBwAJ?utm_medium=email&utm_source=footer&pli=1)
    - [MutinyNet Signet](https://mutinynet.com) | [Github Link](https://github.com/bitcoin/bitcoin/pull/27446)
+   - [Brandon working on multi-signet support](https://github.com/bitcoin/bitcoin/pull/29838)
 
 
 ### Mining

@@ -81,8 +81,16 @@ MC: Jodom
 
 MC: Jodom
 
-- [Fedimint - a bitcoin custody protocol using ecash](https://fedimint.org)
-- [Cashu Gateways](https://damus.io/nevent1qqsfakvg9fwttxp6y2fp0n0nmrgnguac63h3lf4pxafetrhms85yv5spz4mhxue69uhhyetvv9ujuerpd46hxtnfduhszxrhwden5te0dehhxarj9enx6apwwa5h5tnzd9az7qg7waehxw309ahx7um5wgkhqatz9emk2mrvdaexgetj9ehx2ap0qyvhwumn8ghj7un9d3shjtnndehhyapwwdhkx6tpdshsssnezh)
+- [Fedimint - a community custody protocol using ecash](https://fedimint.org)
+   - [Fedimint Wiki](https://github.com/fedimint/fedimint/wiki)
+   - [Fedimint on Bitcoin TV](https://bitcointv.com/c/fedimint_dev/videos)
+   - [Awesome Fedimint](https://github.com/fedimint/awesome-fedimint)
+- [Cashu](https://cashu.space)
+   - [Cashu NUTs](https://github.com/cashubtc/nuts)
+   - [Multinut Payments](https://x.com/CashuBTC/status/1793542343863505076)
+   - [Idea: Cashu Gateways](https://damus.io/nevent1qqsfakvg9fwttxp6y2fp0n0nmrgnguac63h3lf4pxafetrhms85yv5spz4mhxue69uhhyetvv9ujuerpd46hxtnfduhszxrhwden5te0dehhxarj9enx6apwwa5h5tnzd9az7qg7waehxw309ahx7um5wgkhqatz9emk2mrvdaexgetj9ehx2ap0qyvhwumn8ghj7un9d3shjtnndehhyapwwdhkx6tpdshsssnezh)
+   - [Awesome Cashu](https://github.com/cashubtc/awesome-cashu)
+- [Bitcoin Mints](https://bitcoinmints.com)
 
 ### Other Bitcoin Tech
 

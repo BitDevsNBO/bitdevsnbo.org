@@ -21,6 +21,6 @@ description = "BitDevsNBO is a community in Nairobi, Kenya, for those interested
 # Put all your custom variables here
 
 github = "https://github.com/BitDevsNBO/bitdevsnbo"
-meetup = "https://www.meetup.com/bitdevsnbo"
+luma    = "https://lu.ma/bitdevsnbo"
 discord = "https://discord.gg/RQmYSGJeNZ"
 twitter = "https://twitter.com/BitDevsNBO"

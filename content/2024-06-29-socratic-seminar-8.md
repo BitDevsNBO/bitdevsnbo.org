@@ -63,11 +63,17 @@ MC: Jodom
 
 MC: Jodom
 
-- [Ecash TIDES using Cashu and Stratum v2](https://delvingbitcoin.org/t/ecash-tides-using-cashu-and-stratum-v2/870)
-- [Private Fedimint Federations](https://github.com/fedimint/fedimint/pull/5322)
-- [Mutiny announces harbor](https://blog.mutinywallet.com/harbor/)
+- [DNS attack on Fedimints](https://x.com/MutinyWallet/status/1805346636660429021?t=ocIIN7nHWjOuQ5PwrYGMZQ&s=19)
+  - [Mitigation: Guardian API endpoint migration](https://x.com/fedimint/status/1805688371798589906)
+  - [doesn't affect Cashu](https://x.com/callebtc/status/1805634386244612383)
 - [the big ecash debate](https://x.com/sethforprivacy/status/1796250854674124875?t=8CM-Y1-lGi3OweXPN32aNg&s=19)
 - [ecash vs **statecoins**](https://x.com/1440000bytes/status/1805112962941653159)
+- New Fedimint Wallets
+  - [Harbor by Mutiny](https://blog.mutinywallet.com/harbor/)
+- New Cashu Wallets
+  - [Chamberlain](https://github.com/sovereign-app/chamberlain)
+  - [Nutmix](https://github.com/lescuer97/nutmix)
+- [Open Cash Association - support for building on Cashu](https://x.com/CashuBTC/status/1798386131580637434)
 
 ### Other Bitcoin Tech
 
@@ -96,6 +102,7 @@ MC: Vlad
 MC: Isaack
 
 - [Rust for Bitcoiners](https://x.com/ChaincodeLabs/status/1801301879361609734?t=z7B3qqABSDvz3d_FSLxAnQ&s=19)
+- [BitScript - learn bitcoin script](https://www.bitscript.app)
 - [Coinbase integrates Bitcoin’s Lightning Network in partnership with Lightspark](https://www.coinbase.com/blog/coinbase-integrates-bitcoins-lightning-network-in-partnership-with)
 
 #### Upcoming Events

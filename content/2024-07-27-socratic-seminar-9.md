@@ -87,6 +87,7 @@ MC: Jodom
 
 MC: You / Random
 
+- [Taproot Assets on Lightning](https://x.com/lightning/status/1815768786752164213)
 - [Hacker News reaction to an L402 post](https://news.ycombinator.com/item?id=40971766)
 - [Setting up a Bitcoin payment addess](https://sethforprivacy.com/guides/setting-up-a-bitcoin-username/)
   - One address for [BOLT12](https://bolt12.org/) and for [Silent Payments](https://silentpayments.xyz). Wins!

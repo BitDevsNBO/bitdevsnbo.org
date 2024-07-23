@@ -67,6 +67,7 @@ MC: Jodom
   - [BOLT #1173](https://github.com/lightning/bolts/pull/1173)
 - [Adding a BOLT11 invoice field for blinded paths](https://bitcoinops.org/en/newsletters/2024/07/05/#adding-a-bolt11-invoice-field-for-blinded-paths)
 - [How to Use Boltz Client's Autoswap to Automate Your Lightning Liquidity Management](https://blog.boltz.exchange/p/guide-how-to-use-boltz-clients-autoswap)
+- [Polar v3.0.0 released](https://x.com/lightningpolar/status/1815785643332563435)
 
 ### Ecash
 

@@ -6,9 +6,9 @@ template = "post.html"
 
 ## Location
 
-The event will be hosted at **Jenga Leo**:
+The event will be hosted at **Nairobi Garage**:
 
-12th Floor WESTPARK TOWERS | Mpesi Ln, Nairobi | [Map](https://maps.app.goo.gl/jA86RuyuBKcE4eA47)
+Pinetree Plaza | Kaburu Drive, Nairobi | [Map](https://maps.app.goo.gl/Vi8kuEQZVwTUfNBHA)
 
 ## Announcements
 
@@ -41,6 +41,7 @@ MC: Brandon
   - [discussed: the future of Bitcoin Testnet](https://groups.google.com/g/bitcoindev/c/9bL00vRj7OU)
 - [Silent Payments](https://silentpayments.xyz) is shipping!
   - [BlueWallet adds silent payment send support](https://github.com/BlueWallet/BlueWallet/releases/tag/v6.6.7)
+  - [First silent payment tx signed by a hardware waller : BitBox02](https://x.com/BitBoxSwiss/status/1816103516059971874)
 
 ### Mining
 
@@ -53,6 +54,8 @@ MC: Simon
 - [Real-time Stratum visualization tool released](https://stratum.work)
   - [the code](https://github.com/bboerst/stratum-work)
   - [the research](https://primal.net/e/note1qckcs4y67eyaawad96j7mxevucgygsfwxg42cvlrs22mxptrg05qtv0jz3)
+- [A Bitaxe Has Mined Block **853742**!](https://www.nobsbitcoin.com/a-bitaxe-has-found-a-block/)
+  - [Block 853742](https://mempool.space/block/00000000000000000000f0235e50becc0b3bc91231e236f67736d64b1813704b)
 
 ### Lightning Network
 
@@ -91,6 +94,8 @@ MC: You / Random
 - [Hacker News reaction to an L402 post](https://news.ycombinator.com/item?id=40971766)
 - [Setting up a Bitcoin payment addess](https://sethforprivacy.com/guides/setting-up-a-bitcoin-username/)
   - One address for [BOLT12](https://bolt12.org/) and for [Silent Payments](https://silentpayments.xyz). Wins!
+- [Statechains are coming: Statechainjs by SuperTestnet](https://x.com/super_testnet/status/1815792914812862609)
+  - [watch this guy (wizard) work](https://supertestnet.org)
 
 ### Extras
 
@@ -101,6 +106,9 @@ MC: Isaack
 - [DLCs implemented on Cashu](https://x.com/callebtc/status/1811678845864411588?t=whdv1O-pMniUONOPqsiDVw&s=19)
 - [Security: regreSSHion vulnerability and how it affects funds in your bitcoin/lightning node](https://ubuntu.com/security/CVE-2024-6387)
 - [Idea: Instantly top-up under-funded lightning channels with ecash](https://primal.net/e/nevent1qqsdws9tytu94h6rgkzm2ssca6q3t33ms9cd3mfmmv6p0yez0snzj5gzypgdjn7zmpvqc6ptqud9gtutrcc6yq9s2z96h9dr80hss4wl9qwkxz0g9vp)
+- [Policy Report on the energy impacts of AI and Bitcoin mining](https://www.btcpolicy.org/articles/the-locust-and-the-dung-beetle-energy-impacts-of-bitcoin-ai)
+  - [X thread](https://x.com/jyn_urso/status/1815903673609834857)
+- [Proton launches a Bitcoin, Lightning wallet](https://proton.me/blog/proton-wallet-launch)
 
 #### Upcoming Events
 
@@ -108,4 +116,7 @@ MC: Isaack
 
 MC: Sharon
 
-- BITSACCO pilot announcement
+- [Bitcoin 2024, Nashville](https://b.tc/conference/2024): July 25th - 27th, 2024
+- [BITSACCO pilot announcement](https://bitsacco.com) : August 3rd, 2024
+- [Africa Bitcoin Conference](https://afrobitcoin.org) : Dec 9th - 11th, 2024
+  - [ABC Fellowship](https://afrobitcoin.org/afro-bitcoin-fellowship/), [X thread](https://x.com/AfroBitcoinOrg/status/1816223783574741450)

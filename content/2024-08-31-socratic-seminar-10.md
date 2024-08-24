@@ -50,17 +50,11 @@ MC: Simon
 
 ---
 
-MC: TBD
+MC: Isaack
 
 - [Bolt 12 Trusted Contacts](https://delvingbitcoin.org/t/bolt-12-trusted-contacts/1046)
-
-### Ecash
-
----
-
-MC: TBD
-
--
+- [Shared Lightning Node on Nostr](https://x.com/ShockBTC/status/1818385231705260318)
+- [Nostr Native Lightning Node](https://github.com/shocknet/Lightning.Pub)
 
 ### Other Bitcoin Tech
 
@@ -68,15 +62,7 @@ MC: TBD
 
 MC: You / Random
 
--
-
-### Extras
-
----
-
-MC: Isaack
-
--
+- [Graphene OS on Pixel](https://staging.grapheneos.org/install/web)
 
 #### Upcoming Events
 
@@ -84,4 +70,5 @@ MC: Isaack
 
 MC: TBD
 
--
+- [Africa Bitcoin Conference](https://afrobitcoin.org) : Dec 9th - 11th, 2024
+  - [ABC Fellowship](https://afrobitcoin.org/afro-bitcoin-fellowship/), [X thread](https://x.com/AfroBitcoinOrg/status/1816223783574741450)

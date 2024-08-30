@@ -35,7 +35,9 @@ MC: Brandon
 - [New time warp vulnerability in testnet4](https://delvingbitcoin.org/t/zawy-s-alternating-timestamp-attack/1062)
 - [Bitcoin Core switch to CMake build system](https://github.com/bitcoin/bitcoin/pull/30454)
 - [Metal Bitcoin Seed Storage Reviews](https://jlopp.github.io/metal-bitcoin-storage-reviews/)
-- [Update: Mutiny Wallet will be winding down operations by the end of the year](https://x.com/mutinywallet/status/1820465141147746760?s=46)
+- [V28 Release Candidates](https://github.com/bitcoin/bitcoin/issues/29891)
+  - [V28 RC1 released](https://bitcoincore.org/bin/bitcoin-core-28.0/test.rc1/)
+  - [AssumeUTXO on mainnet](https://github.com/bitcoin/bitcoin/pull/28553)
 
 ### Mining
 
@@ -62,6 +64,7 @@ MC: Isaack
 
 MC: You / Random
 
+- [Update: Mutiny Wallet will be winding down operations by the end of the year](https://x.com/mutinywallet/status/1820465141147746760?s=46)
 - [Graphene OS on Pixel](https://staging.grapheneos.org/install/web)
 
 #### Upcoming Events

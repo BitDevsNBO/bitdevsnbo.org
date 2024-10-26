@@ -54,6 +54,20 @@ MC: Isaack
 - [Hybrid Jamming Mitigation: Results and Updates](https://delvingbitcoin.org/t/hybrid-jamming-mitigation-results-and-updates/1147)
 - [LN Summit 2024 Notes & Summary/Commentary](https://delvingbitcoin.org/t/ln-summit-2024-notes-summary-commentary/1198)
 
+### Ecash
+
+---
+
+MC: Jodom
+
+- [Fedimint: Web SDK is here!](https://web.fedimint.org)
+- [Cashu   : Tap to pay with bearer tokens - absolute wiiild!](https://x.com/callebtc/status/1848256284727841179)
+- [Bitsacco: Have you heard of Bitsacco OS?](https://github.com/bitsacco/os)
+- Highlighted ecash resources from bitcoin++ Berlin:
+  - [The second renaissance of ecash](https://www.youtube.com/live/lovyq77OeVM?si=YMzpBUrHEC40gfoE)
+  - [Federated ecash mints 101](https://www.youtube.com/live/Bp-HTGqboBU?si=FDEPbqhAzzHwblpJ)
+  - [Hashpools - a new kind of mining pool powered by ecash](https://www.youtube.com/live/uCyRffPdsaU?si=uQMOkTNpxeyVQ39J)
+
 ### Other Bitcoin Tech
 
 ---

@@ -72,7 +72,7 @@ MC: Jodom
 
 ---
 
-MC: TBD
+MC: Okjodom
 
 - [Is Tor till safe to use?](https://blog.torproject.org/tor-is-still-safe/) 
 - [Ark on Bitcoin is here](https://blog.second.tech/ark-on-bitcoin-is-here/)

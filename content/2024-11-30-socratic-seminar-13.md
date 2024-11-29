@@ -62,18 +62,30 @@ MC: Isaack
 
 ---
 
-MC: TBD
+MC: okjodom
 
 - [bitcoinutils.dev launches](https://bitcoinutils.dev)
 - [https://dashboard.clarkmoody.com/](https://dashboard.clarkmoody.com/)
 - [The Ark Protocol: An Easy Introduction](https://thunderbiscuit.com/posts/ark/)
+  - [Virtual Channels on Ark](https://x.com/ArkLabsHQ/status/1861457652699820520?t=S1onCPNDD1f8kf92ubj--Q&s=19)
+- [Print Your own eCash](https://highlighter.com/a/naddr1qvzqqqr4gupzp394x6dfmvn69cduj7e9l2jgvtvle7n5w5rtrunjlr6tx6up9k7kqy88wumn8ghj7mn0wvhxcmmv9uqyqjr0wukhgmedwpexjmn594uk7atj94hhwm3dv43kzumg946hx6twvuk5wctwv3kxze3dwvkk6mmwv4uj6urjd9h8getj95cnzcm4ddkqx2znlq)
 
-#### Upcoming Events
+### Bitcoin Development
 
 ---
 
-MC: TBD
+MC: [Anita Posch](https://anitaposch.com/)
 
+- Responsible Bitcoin Development - a guest socratic seminar discussion
+
+
+#### Upcoming Events & Announcements
+
+---
+
+MC: Sharon
+
+- [Btrust Developer Day](https://x.com/btrustteam/status/1837177909389197547) : Dec 8th, 2024
 - [Africa Bitcoin Conference](https://afrobitcoin.org) : Dec 9th - 11th, 2024
-  - [ABC Fellowship](https://afrobitcoin.org/afro-bitcoin-fellowship/), [X thread](https://x.com/AfroBitcoinOrg/status/1816223783574741450)
-  - [Btrust Developer Day](https://x.com/btrustteam/status/1837177909389197547)
+- [ABC Fellowship](https://afrobitcoin.org/afro-bitcoin-fellowship/), [X thread](https://x.com/AfroBitcoinOrg/status/1816223783574741450)
+- [BTrust x Chaincode: 2025 Builders Cohort Application](https://btrust.homerun.co/btrust-builders-2025-oss-cohort-application/en)

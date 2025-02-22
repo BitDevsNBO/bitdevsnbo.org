@@ -8,7 +8,7 @@ title: "Socratic Seminar #14"
 
 The event will be hosted at **Jenga Leo**:
 
-12th Floor WESTPARK TOWERS | Mpesi Ln, Nairobi | [Map](https://maps.app.goo.gl/jA86RuyuBKcE4eA47)
+12th Floor WESTPARK TOWERS | Mpesi Ln, Nairobi | [Map](https://maps.app.goo.gl/jA86RuyuBKcE4eA47){:target="_blank"}
 
 ## Announcements
 

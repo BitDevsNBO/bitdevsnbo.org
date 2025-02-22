@@ -1,40 +1,40 @@
-# BitDevsNBO
+# Nairobi Bitcoin Developers
 
-Simple Zola site for hosting all of the links from meetups past and future.
+Simple Jekyll site for hosting all of the links from meetups past and future.
 
 ## Development
 
-You'll need [Zola](https://www.getzola.org/documentation/getting-started/installation/) to run the
-site locally. Once it is setup:
+You'll need [Ruby & Jekyll](https://jekyllrb.com/docs/installation/) to run the
+site locally. Once they're setup:
 
 * Clone the repository and go into the directory
-* Run `zola serve`
-* Go to http://localhost:1111
+* Run `bundle install`
+* Run `jekyll serve`
+* Go to http://localhost:4000
 
 ## Making a Post
 
-To make a new post, make a new file in the `content` directory with a title of
-`YYYY-MM-DD-title-goes-here.md`. At the top of the file you must provide the
+To make a new post, make a new file in `_posts/` with a title of
+`YYYY-MM-DD-title-goes-here`. At the top of the file you'll want to provide the
 following information:
 
 ```md
-+++
-title = "<title goes here>"
-template = "post.html"
-[extra]
-meetup_id = "<optional meetup id goes here>"
-+++
+---
+layout: post # Always post
+type: socratic # or whitepaper for a whitepaper series
+title: "Name of the Post"
+---
 ```
 
-After that, it's just simple [markdown](https://www.markdownguide.org/cheat-sheet/). 
-The site will auto-generate the rest.
+After that, it's just simple markdown. The site will auto-generate the rest.
 
 ## Changing Site Data
 
-All site configurations are contained in `config.toml`.
+All site configurations are either contained in `_config.yml` or
+`_data/settings.yml`. Some data is duplicated between the two due to the way
+Jekyll injects variables, so be sure to update both.
 
 ## Attributions
 
-Thanks to [BitDevs NYC](https://github.com/BitDevsNYC/BitDevsNYC.github.io) for the
-Jekyll site that this site is based on, and to [BitDevs LA](https://bitdevsla.org) for creating 
-this [Zola](https://www.getzola.org) BitDevs template.
+Thanks to [LeNPaul](https://github.com/LeNPaul/jekyll-starter-kit) for the
+Jekyll starter kit this was forked from.

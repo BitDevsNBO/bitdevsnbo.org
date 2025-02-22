@@ -1,0 +1,17 @@
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:year-:month-:day-:title
+plugins: [jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+
+sass:
+  sass_dir: assets/css
+  style: :compressed
+
+# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+title: "BitDevsNBO"
+description: "BitDevsNBO is a meetup devoted to the research and development of Bitcoin."
+
+# Leave out some files
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', '.sass-cache']
+

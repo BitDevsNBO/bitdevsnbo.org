@@ -1,0 +1,30 @@
+---
+layout: default
+title: Home
+---
+
+<div class="Home">
+  <p class="Home-about">
+    BitDevsNBO is a meetup devoted to the research and development of Bitcoin.
+  </p>
+
+  <div class="Home-posts">
+    <h2 class="Home-posts-title">Upcoming and Recent Events</h2>
+    {% assign event_posts = 7 %}
+    {% assign counter = 0 %}
+    {% for post in site.posts %}
+      {% if post.type == "socratic" or post.type == "whitepaper"%}
+        <div class="Home-posts-post">
+          <span class="Home-posts-post-date">{{ post.date | date_to_string }}</span>
+          <span class="Home-posts-post-arrow">&raquo;</span>
+          <a class="Home-posts-post-title" href="{{ post.url }}">{{ post.title }}</a>
+        </div>
+        {% assign counter = counter | plus: 1 %}
+        {% if counter == event_posts %}
+          {% break %} {% comment %}exit the for loop{% endcomment %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+    <p><a href="/events.html">See all events</a></p>
+  </div>
+</div>

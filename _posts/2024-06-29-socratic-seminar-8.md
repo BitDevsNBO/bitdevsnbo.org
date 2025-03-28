@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "Socratic Seminar #18"
+title: "Socratic Seminar #8"
 ---
 
 ## Location

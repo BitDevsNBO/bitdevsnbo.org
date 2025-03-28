@@ -3,6 +3,8 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title
 plugins: [jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+incremental: true
+future: true # allow posts with future dates
 
 sass:
   sass_dir: assets/css

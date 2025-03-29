@@ -54,6 +54,7 @@ MC: Simon
 - [FIRST PUBLIC-POOL BLOCK](https://x.com/Public_Pool_BTC/status/1903618424841924829)
   - [Block #888989](https://mempool.space/block/00000000000000000000a517d87e63ea04c7ec3dd51d20926e82cca5466dccaf)
 - [Braiins open-source bitcoin mining chip](https://x.com/BraiinsMining/status/1895463159894302837)
+- [Stratum V2 v1.3.0](https://x.com/StratumV2/status/1905720635038589065?t=hOoc2ULONP-6TRqIoyqvKw&s=19)
 
 ### Lightning Network
 
@@ -76,7 +77,7 @@ MC: okjodom
 - [Tap-to-pay with @CashuBTC ecash — for bitcoin](https://x.com/callebtc/status/1903079881325400407)
 - [Coming soon: @CashuBTC x @BtcpayServer](https://x.com/d4rp4t/status/1904609885175558193)
 - [Blitz wallet Ecash update](https://x.com/callebtc/status/1904683420443107786)
-
+- [New wallet using the Fedimint Web SDK](https://x.com/_AlexLewin/status/1897723289776144536?t=XdKXoEa5n2SVhzKglo3KMw&s=19)
 
 #### Upcoming Events & Announcements
 

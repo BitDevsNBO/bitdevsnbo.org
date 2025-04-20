@@ -30,14 +30,20 @@ sponsor [Btrust](http://btrust.tech/) for food and refreshments.
 
 MC: Brandon
 
-- [Bitcoin Core 29.0rc3 release candidate is available](https://x.com/bitcoincoreorg/status/1908043461720420537?t=QStCo3BMn8Wt59NBDr_jVA&s=19)
-- [Hash-Based Signature Schemes for Post-Quantum Bitcoin](https://conduition.io/cryptography/quantum-hbs/)
-- [Open source development unwanted? 😢](https://x.com/SomsenRuben/status/1907566218640269378?t=cbpQGCoBp0j1CYa-HcatnA&s=19)
-- [Migrating an exchange's cold storage](https://x.com/River/status/1906772341167632410?t=aQorRWJZ3AQEakeoBMnGEg&s=19)
-- [BIP 353 and Payment Addresses](https://github.com/bitcoin/bips/blob/2d9c172cddd6eaf2b1dedea66595fb33fa987fef/bip-XXXX.mediawiki)
-- [Overpaid 96642x 💀](https://x.com/mononautical/status/1909404850061824036)
+- [Bitcoin Core v29.0 release announcement](https://x.com/bitcoincoreorg/status/1912086604971192690)
+  - [Bitcoin Core v29.0 release](https://bitcoincore.org/en/releases/29.0/)
+- [Which way, quantum Bitcoiner](https://x.com/bitschmidty/status/1909651431386128858)
+  - [Hash-Based Signature Schemes for Post-Quantum Bitcoin](https://conduition.io/cryptography/quantum-hbs/)
+  - [Quantum Computing Group Offers 1 BTC to Whoever Breaks Bitcoin's Cryptographic Key](https://x.com/andurobtc/status/1912909223131783488)
+- [Bitcoindev mailing list update](https://x.com/SomsenRuben/status/1907566218640269378?t=cbpQGCoBp0j1CYa-HcatnA&s=19)
+- [BIP 353 - DNS Payment Instructions](https://github.com/bitcoin/bips/blob/2d9c172cddd6eaf2b1dedea66595fb33fa987fef/bip-XXXX.mediawiki)
+- [Overpaid Transaction by 96642x 💀](https://x.com/mononautical/status/1909404850061824036)
+- [Pay To Anchor outputs](https://x.com/mononautical/status/1911572337436336341)
+- [SwiftSync – Speeding up IBD with pre-generated hints (PoC)](https://delvingbitcoin.org/t/swiftsync-speeding-up-ibd-with-pre-generated-hints-poc/1562)
+  - [SwiftSync](https://gist.github.com/RubenSomsen/a61a37d14182ccd78760e477c78133cd)
+- [Educational and experimental-based secp256k1 implementation](https://mailing-list.bitcoindevs.xyz/bitcoindev/d0044f9c-d974-43ca-9891-64bb60a90f1f@gmail.com/)
+  - [secp256k1lab](https://github.com/secp256k1lab/secp256k1lab)
 - [The 68-bit Bitcoin puzzle has been cracked](https://x.com/lianabitcoin/status/1909573460910649832)
-- [SwiftSync](https://gist.github.com/RubenSomsen/a61a37d14182ccd78760e477c78133cd)
 
 ### Mining
 
@@ -45,7 +51,9 @@ MC: Brandon
 
 MC: Simon
 
+- [Bitcoin Mining Centralization 2025](https://x.com/0xB10C/status/1912154961938383166)
 - [Ocean Mining hits back to back blocks](https://x.com/colbynoe/status/1906411953179754832?s=46)
+- [Block 892572 was mined by Foundry FOUR minutes BEFORE F2Pool mined Bitcoin Block 892571?](https://x.com/_BitcoinCapital/status/1912195650168721477)
 - [Mysterious mining pool](https://x.com/mononautical/status/1906936054135029817?t=1-OAD1S7VBFvFnPA7KpL4w&s=19)
 - [Timelocking coinbase transactions to the mined block's height](https://github.com/bitcoin/bitcoin/pull/32155)
 - [Mujina Firmware, from mining application for the Ember One to full support for Stratum V2](https://x.com/256FOUNDATION/status/1908585611168276504?t=UBf4eBbjMiDqSTPAKC5PYg&s=19)

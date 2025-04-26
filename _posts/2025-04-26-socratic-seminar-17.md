@@ -74,10 +74,34 @@ MC: Isaack
 
 ---
 
-MC: okjodom
+MC: Jodom
 
-- [Fedimint is coming to your Start9!](https://x.com/joschisanbtc/status/1905705762061787371?t=nUoB-xKUGCe2M4vS08h59g&s=19)
-- [BTCNUTSERVER 🥜😎](https://x.com/CashuBTC/status/1906679013399011804?t=RPjCY_7qn48MSZzBvhDd_g&s=19)
+- Fedimint
+  - [Fedimint v0.7.0 Released](https://x.com/fedimint/status/1912173279239897133)
+  - [Release Notes](https://github.com/fedimint/fedimint/releases/tag/v0.7.0)
+  - [Fedimint is coming to your Start9!](https://x.com/joschisanbtc/status/1905705762061787371?t=nUoB-xKUGCe2M4vS08h59g&s=19)
+  - [Discussion on SLP](https://www.youtube.com/watch?v=mo73liEs69I&pp=0gcJCYQJAYcqIYzv)
+- Cashu is always Nuts
+  - [BTCNUTSERVER 🥜😎](https://x.com/CashuBTC/status/1906679013399011804?t=RPjCY_7qn48MSZzBvhDd_g&s=19)
+  - [Zeus x Cashu](https://x.com/ZeusLN/status/1914665560928821335)
+  - [MiniBits on iOS](https://x.com/MinibitsCash/status/1915371935279595850)
+- Ark n Taproot
+  - [About Ark Protocol](https://x.com/ArkLabsHQ/status/1914723524100661544)
+  - [Ark natively supprts Taproot Assets](https://x.com/ArkLabsHQ/status/1915435703204520276)
+  - [About Taproot Assets](https://docs.lightning.engineering/the-lightning-network/taproot-assets)
+
+
+### Financialization of Bitcoin
+
+---
+
+MC: Jodom
+
+- [Twenty One Bitcoin](https://xxi.money/)
+  - [announcement](https://x.com/jackmallers/status/1915399337913290867)
+- [Strategy](https://www.strategy.com/)
+  - [Bitcoin for Corporations](https://www.strategysoftware.com/world25/bitcoin-for-corporations)
+- What else is happening?
 
 #### Upcoming Events & Announcements
 

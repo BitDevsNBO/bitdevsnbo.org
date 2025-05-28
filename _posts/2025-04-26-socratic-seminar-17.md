@@ -12,7 +12,7 @@ The event will be hosted at **Jenga Leo**:
 
 ## Announcements
 
-Join us on our Fourteenth Bitcoin [Socratic Seminar](/about)! A special thank you to our
+Join us on our Seventeenth Bitcoin [Socratic Seminar](/about)! A special thank you to our
 sponsor [Btrust](http://btrust.tech/) for food and refreshments.
 
 ## Reminders

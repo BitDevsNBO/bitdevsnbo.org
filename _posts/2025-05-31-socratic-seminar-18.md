@@ -72,6 +72,14 @@ MC: Isaack
 - [An Open Protocol for Internet-Native Payments](https://www.x402.org/)
 - [Lightning HTTP 402 Protocol](https://docs.lightning.engineering/the-lightning-network/l402)
 - [Off-Chain Rebalancing Scheme](https://x.com/renepickhardt/status/1924066146493345940)
+- [Latency and Privacy in Lightning](https://delvingbitcoin.org/t/latency-and-privacy-in-lightning/1723)
+- [CLN enables Peer Storage of Channel Backups](https://github.com/ElementsProject/lightning/pull/8140)
+- [CLN Update on Gossip of Announcement Signatures](https://github.com/ElementsProject/lightning/pull/8136)
+- [CLN adds an `update` command to the reckless plugin manager](https://github.com/ElementsProject/lightning/issues/8266)
+  - [CLN adds the reckless plugin manager](https://bitcoinops.org/en/newsletters/2022/11/16/#core-lightning-5647)
+- [CLN splicing interoperability with Eclair](https://github.com/ElementsProject/lightning/pull/8021)
+- [CLN implements BIP 137](https://github.com/ElementsProject/lightning/pull/8226)
+- [LND Connectivity on Slow Pongs](https://github.com/lightningnetwork/lnd/pull/9801)
 
 ### Ecash & Other Bitcoin Tech
 

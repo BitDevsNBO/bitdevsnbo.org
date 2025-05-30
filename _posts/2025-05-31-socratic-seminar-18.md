@@ -36,7 +36,7 @@ MC: Brandon
   - [CVE-2024-52919 - Remote crash due to addr message spam (part 2)](https://bitcoincore.org/en/2025/04/28/disclose-cve-2024-52919/)
 - [OP _RETURN](https://github.com/bitcoin/bitcoin/pull/32359)
   - [Antoine Poinsot - Relay Policy and OP_RETURN](https://antoinep.com/posts/relay_policy_drama/)
-    - [Bitcoin Core OP RETURN and spam explained by a Core Dev with Antoine Poinsot | SLP661](https://x.com/stephanlivera/status/1923712089966903762)
+    - [Bitcoin Core OP RETURN and spam explained by Antoine Poinsot](https://x.com/stephanlivera/status/1923712089966903762)
   - [OP_RETURN limits: Pros and Cons](https://delvingbitcoin.org/t/op-return-limits-pros-and-cons/1645)
   - [Behind the OP_RETURN Drama](https://delvingbitcoin.org/t/behind-the-op-return-drama/1650)
   - [Greg Maxwell post on Reddit](https://www.reddit.com/r/Bitcoin/comments/1kl56u9/comment/mrzr80c/?share_id=T2n9QHc2QHwBL7kK4DqE2&utm_content=2&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1)

@@ -1,0 +1,258 @@
+---
+layout: default
+title: "Automated Lightning Rewards"
+---
+
+<div class="container">
+    <div class="rewards-page">
+        <h1>⚡ Automated Lightning Rewards</h1>
+        <p class="lead">Join our Discord and instantly earn 10 sats with our automated reward system!</p>
+        
+        <div class="how-it-works">
+            <h2>🚀 How It Works</h2>
+            <div class="steps">
+                <div class="step">
+                    <div class="step-number">1</div>
+                    <div class="step-content">
+                        <h3>Join Discord</h3>
+                        <p>Scan the QR code or click the link to join our Discord server</p>
+                        <div class="qr-container">
+                            <img src="/assets/imgs/discord-qr-10sats.png" alt="Join Discord QR Code" class="qr-code">
+                            <a href="https://discord.gg/RQmYSGJeNZ" target="_blank" class="btn-discord">Join Discord Server</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="step">
+                    <div class="step-number">2</div>
+                    <div class="step-content">
+                        <h3>Use Slash Command</h3>
+                        <p>In Discord, type <code>/claim-sats</code> to instantly claim your reward</p>
+                        <div class="command-example">
+                            <span class="command">/claim-sats</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="step">
+                    <div class="step-number">3</div>
+                    <div class="step-content">
+                        <h3>Get Instant Sats</h3>
+                        <p>Click the generated link and receive 10 sats instantly in your Lightning wallet!</p>
+                        <div class="wallets">
+                            <span>Works with: Phoenix, Muun, Zeus, Wallet of Satoshi, Blue Wallet, etc.</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="features">
+            <h2>✨ Features</h2>
+            <div class="feature-grid">
+                <div class="feature">
+                    <h3>⚡ Instant</h3>
+                    <p>Receive sats in under 10 seconds</p>
+                </div>
+                <div class="feature">
+                    <h3>🔒 Secure</h3>
+                    <p>One reward per Discord account</p>
+                </div>
+                <div class="feature">
+                    <h3>🎯 Simple</h3>
+                    <p>Just 2 clicks to claim your reward</p>
+                </div>
+                <div class="feature">
+                    <h3>🌍 Universal</h3>
+                    <p>Works with any Lightning wallet</p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="cta">
+            <h2>Ready to Get Started?</h2>
+            <a href="https://discord.gg/RQmYSGJeNZ" target="_blank" class="btn-primary">Join Discord & Claim 10 Sats</a>
+        </div>
+    </div>
+</div>
+
+<style>
+.rewards-page {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+.lead {
+    font-size: 1.2rem;
+    color: #666;
+    margin-bottom: 3rem;
+}
+
+.how-it-works {
+    margin: 3rem 0;
+}
+
+.steps {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    margin: 2rem 0;
+}
+
+.step {
+    display: flex;
+    align-items: flex-start;
+    text-align: left;
+    padding: 2rem;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    background: #f9f9f9;
+}
+
+.step-number {
+    background: #f7931a;
+    color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    margin-right: 1.5rem;
+    flex-shrink: 0;
+}
+
+.step-content h3 {
+    margin: 0 0 0.5rem 0;
+    color: #333;
+}
+
+.step-content p {
+    margin: 0 0 1rem 0;
+    color: #666;
+}
+
+.qr-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+.qr-code {
+    max-width: 200px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.btn-discord {
+    background: #5865F2;
+    color: white;
+    padding: 12px 24px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background 0.2s;
+}
+
+.btn-discord:hover {
+    background: #4752C4;
+    text-decoration: none;
+    color: white;
+}
+
+.command-example {
+    background: #2f3136;
+    color: #dcddde;
+    padding: 12px 16px;
+    border-radius: 6px;
+    font-family: 'Courier New', monospace;
+    display: inline-block;
+}
+
+.command {
+    color: #7289da;
+}
+
+.wallets {
+    font-size: 0.9rem;
+    color: #666;
+    font-style: italic;
+}
+
+.features {
+    margin: 3rem 0;
+}
+
+.feature-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 1.5rem;
+    margin: 2rem 0;
+}
+
+.feature {
+    padding: 1.5rem;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background: white;
+}
+
+.feature h3 {
+    margin: 0 0 0.5rem 0;
+    color: #f7931a;
+}
+
+.feature p {
+    margin: 0;
+    color: #666;
+    font-size: 0.9rem;
+}
+
+.cta {
+    margin: 3rem 0;
+    padding: 2rem;
+    background: linear-gradient(135deg, #f7931a, #ff6b35);
+    border-radius: 12px;
+    color: white;
+}
+
+.cta h2 {
+    margin: 0 0 1rem 0;
+    color: white;
+}
+
+.btn-primary {
+    background: white;
+    color: #f7931a;
+    padding: 12px 24px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: transform 0.2s;
+}
+
+.btn-primary:hover {
+    transform: translateY(-2px);
+    text-decoration: none;
+    color: #f7931a;
+}
+
+@media (max-width: 768px) {
+    .step {
+        flex-direction: column;
+        text-align: center;
+    }
+    
+    .step-number {
+        margin: 0 0 1rem 0;
+    }
+    
+    .feature-grid {
+        grid-template-columns: 1fr;
+    }
+}
+</style> 

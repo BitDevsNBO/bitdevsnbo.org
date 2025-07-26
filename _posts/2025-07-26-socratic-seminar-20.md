@@ -30,6 +30,9 @@ sponsor [Btrust](http://btrust.tech/) for food and refreshments.
 
 MC: Brandon
 
+- [Proof-of-work based signet faucet](https://delvingbitcoin.org/t/proof-of-work-based-signet-faucet/937)
+- [Witnessless Sync for Pruned Nodes](https://delvingbitcoin.org/t/witnessless-sync-for-pruned-nodes/1742)
+- [BIP 360: Pay to Quantum Resistant Hash](https://bip360.org)
 - [Bitcoin Quantum Summit recap](https://x.com/rot13maxi/status/1946735932394160490)
 
 ---
@@ -81,6 +84,7 @@ MC: okjodom
 - [Wallet of Satoshi launch on spark](https://x.com/spark/status/1940168641301119094?t=1I9IIj8GJj8yH4JzTQaDPg&s=19)
 - [BitVM 3S](https://x.com/robin_linus/status/1945468445119713321)
 - [Simplicity on Liquid](https://x.com/Snyke/status/1948050547820609645)
+- [fedimint-web-wallet](https://github.com/Harshdev098/fedimint-web-wallet)
 
 #### Upcoming Events & Announcements
 

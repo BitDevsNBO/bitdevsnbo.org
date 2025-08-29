@@ -31,6 +31,11 @@ sponsor [Btrust](http://btrust.tech/) for food and refreshments.
 MC: Brandon
 
 - [Add bitcoin-{node,gui} to release binaries for IPC](https://github.com/bitcoin/bitcoin/pull/31802)
+- [Changing the minimum relay feerate](https://delvingbitcoin.org/t/changing-the-minimum-relay-feerate/1886)
+- [ Peer block template sharing to mitigate problems with divergent mempool policies](https://delvingbitcoin.org/t/sharing-block-templates/1906)
+- [Qubic attack on Monero](https://delvingbitcoin.org/t/qubic-attack-on-monero/1920)
+- [[BIP Proposal] Utreexo Nodes](https://groups.google.com/g/bitcoindev/c/W1lxBraKG_E)
+  - [BIP draft: BIPs for Utreexo](https://github.com/bitcoin/bips/pull/1923)
 
 ## Design
 

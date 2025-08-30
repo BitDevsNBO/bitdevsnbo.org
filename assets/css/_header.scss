@@ -2,20 +2,23 @@
   margin-bottom: 0.75rem;
 
   &-border {
-    opacity: 0.4;
+    opacity: 0.3;
     margin-top: 0.4rem;
     overflow: hidden;
     user-select: none;
+    color: $font-color; // makes the divider white-ish
   }
 
   &-inner {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 1rem 0;
   }
 
   &-logo {
     font-size: 2.2rem;
+    color: $font-color; // Make sure logo is visible too
 
     @media (max-width: $small-screen) {
       font-size: 1.8rem;
@@ -31,13 +34,16 @@
     }
 
     a {
-      color: #333;
-      opacity: 0.4;
+      color: $primary-color;     // bright orange
+      opacity: 1;                // fully visible
       margin-left: 1.5rem;
+      text-decoration: none;
+      font-weight: 500;
+      transition: opacity 0.2s ease, color 0.2s ease;
 
       &:hover {
-        color: $primary-color;
-        opacity: 1;
+        color: lighten($primary-color, 10%);
+        opacity: 0.9;
       }
     }
   }
